@@ -8,6 +8,12 @@
 >
 >[[ZKR_PROGBAR]](https://github.com/ZIKOREK/zkr_progbar) OR [[ZKR_PROGBAR_2.0]](https://github.com/ZIKOREK/zkr_progbar2.0) (SOON)
 
+```
+RESMON:
+w spoczynku: 0.00ms
+przy zakładaniu kamzy: 0.00~0.01ms 
+```
+
 
 
 
