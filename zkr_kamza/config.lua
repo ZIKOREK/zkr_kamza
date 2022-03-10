@@ -18,5 +18,5 @@ Config.Zdejmowaniekamzykolorwebhook = '16711680'
 
 
 
-Config.okokNotify = true
+Config.okokNotify = true -- Jak masz okokNotify to włącz 
 
